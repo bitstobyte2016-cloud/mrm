@@ -2,3 +2,6 @@ vendor/
 server.log
 cookies.txt
 build/
+writable/session/*
+writable/debugbar/*
+writable/logs/*
